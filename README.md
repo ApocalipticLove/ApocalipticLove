@@ -15,7 +15,7 @@
 
 <table width="100%" border='0'>
    <tr>     
-    <tr><td width="30%" valign="bottom"><img src="C:\Users\User\IdeaProjects\ApocalipticLove\icons\qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+    <tr><td width="30%" valign="bottom"><img src="C:/Users/User/IdeaProjects/ApocalipticLove/icons/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
   </table>
   </br>
