@@ -28,3 +28,17 @@ https://github.com/ApocalipticLove/AndroidStudio </br>
    </tr>
   </table>
   </br>
+
+<table width="100%" border='0'>
+   <tr> 
+    <td valign="middle"><strong>Дипломные проекты</strong></td><td valign="middle"><strong>Что особенного</strong></td></tr>
+    <td valign="middle">Тестирование UI</br>проект: <a target="_blank" href="https://github.com/ApocalipticLove/Rollerads">diplom-ui-Rollerads</a></td><td valign="middle">- Page Object</br>- Параметризованные тесты</br>- Параметризованная сборка</br>- Тест-кейсы автотестирования</td></tr>
+    <tr> <td valign="middle">Тестирование REST API</br>проект: <a target="_blank" href="https://github.com/ApocalipticLove/RestApi">diplom-api-reqres.in</a></td><td valign="middle">- Модели получаемых данных описаны с помощью библиотеки Lombok</br>- Использованы спецификации</td></tr>
+    <tr> <td valign="middle">Тестирование мобильного приложения</br>проект: <a target="_blank" href="https://github.com/ApocalipticLove/AndroidStudio">diplom-mobile-wiki</a></td><td valign="middle">- Степовой подход для описания Allure Step</br>- Различные файлы конфигураций для запуска тестов:</br> <code>  - на сервисе Browserstack с помощью Jenkins</code></br><code>  - на локально развернутом эмуляторе Android Studio</code></td></tr>
+    <tr> <td valign="middle">Во всех проектах дипломной работы также настроены:</td><td valign="middle">- Интеграция с Allure-TestOps </br>- Отправка уведомления в Telegram о результатах прохождения тестов</td></tr>
+   </tr>
+  </table>
+  </br>
+
+<a href="https://t.me/NazilyaMullagildina"><img width="2%" title="Telegram" src="icons/Telegram.svg"></a>
+[Dmitriy Aleksandrov](https://t.me/Apclv) </br>
