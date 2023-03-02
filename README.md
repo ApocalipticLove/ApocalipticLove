@@ -12,6 +12,10 @@
 <a href="https://aerokube.com/selenoid/"><img alt="Selenoid" height="50" src="C:\Users\User\IdeaProjects\ApocalipticLove\icons\Selenoid.png" width="50"/></a>
 <a href="https://github.com/allure-framework/allure2"><img alt="Allure" height="50" src="C:\Users\User\IdeaProjects\ApocalipticLove\icons\Allure_Report.png" width="50"/></a>
 <a href="https://www.jenkins.io/"><img alt="Jenkins" height="50" src="C:\Users\User\IdeaProjects\ApocalipticLove\icons\Jenkins.png" width="50"/></a>
+<a href="https://qameta.io/"><img src="C:\Users\User\IdeaProjects\ApocalipticLove\icons\Allure_TO.svg" width="50" height="50" alt="Allure_TO" title="Allure_TO"></a>
+<a href="https://www.browserstack.com/"><img src="C:\Users\User\IdeaProjects\ApocalipticLove\icons\Browserstack.svg" width="50" height="50" alt="Browserstack" title="Browserstack"/></a>
+<a href="https://developer.android.com/"><img src="C:\Users\User\IdeaProjects\ApocalipticLove\icons\Android-studio.svg" width="50" height="50" alt="Android-studio" title="Android-studio"/></a>
+<a href="https://appium.io/"><img src="C:\Users\User\IdeaProjects\ApocalipticLove\icons\Appium.svg" width="50" height="50" alt="Appium" title="Appium"/></a>
 
 <table width="100%" border='0'>
    <tr>     
