@@ -2,10 +2,7 @@
 Меня зовут Александров Дмитрий </br>
 Учусь автотестированию на
 <b>Selenide + Java + Gradle</b> </br>
-Мои дипломные проекты: </br>
-https://github.com/ApocalipticLove/Rollerads </br>
-https://github.com/ApocalipticLove/RestApi </br>
-https://github.com/ApocalipticLove/AndroidStudio </br>
+
 
 <a href="https://www.jetbrains.com/idea/"><img alt="IDEA" height="50" src="icons/Intelij_IDEA.png" width="50"/></a>
 <a href="https://www.java.com/"><img alt="Java" height="50" src="icons/Java.png" width="50"/></a>
